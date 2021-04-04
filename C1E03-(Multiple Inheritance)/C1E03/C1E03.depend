@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1483671904 source:c:\users\user\documents\c++\codes\c1e03-(multiple inheritance)\class1.cpp
+	<iostream>
+	"class1.h"
+
+1483671904 c:\users\user\documents\c++\codes\c1e03-(multiple inheritance)\class1.h
+
+1483671904 source:c:\users\user\documents\c++\codes\c1e03-(multiple inheritance)\class2.cpp
+	<iostream>
+	"class2.h"
+
+1483671904 c:\users\user\documents\c++\codes\c1e03-(multiple inheritance)\class2.h
+
+1483671817 source:c:\users\user\documents\c++\codes\c1e03-(multiple inheritance)\class3.cpp
+	<iostream>
+	<iomanip>
+	"class3.h"
+
+1483671573 c:\users\user\documents\c++\codes\c1e03-(multiple inheritance)\class3.h
+	"class1.h"
+	"class2.h"
+
+1483671904 source:c:\users\user\documents\c++\codes\c1e03-(multiple inheritance)\main.cpp
+	<iostream>
+	<iomanip>
+	"class3.h"
+

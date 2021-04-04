@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1483592673 source:c:\users\user\documents\c++\codes\c1e00-(compositon)\class1.cpp
+	<iostream>
+	"class1.h"
+
+1483594327 c:\users\user\documents\c++\codes\c1e00-(compositon)\class1.h
+
+1483592961 source:c:\users\user\documents\c++\codes\c1e00-(compositon)\class2.cpp
+	<iostream>
+	"class2.h"
+
+1484199109 c:\users\user\documents\c++\codes\c1e00-(compositon)\class2.h
+	"class1.h"
+
+1483594422 source:c:\users\user\documents\c++\codes\c1e00-(compositon)\main.cpp
+	<iostream>
+	"class1.h"
+	"class2.h"
+

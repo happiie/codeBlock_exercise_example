@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1483691460 source:c:\users\user\documents\c++\codes\c2e03\class1.cpp
+	<iostream>
+	"class1.h"
+
+1483691610 c:\users\user\documents\c++\codes\c2e03\class1.h
+
+1483691470 source:c:\users\user\documents\c++\codes\c2e03\class2.cpp
+	<iostream>
+	"class2.h"
+
+1483691610 c:\users\user\documents\c++\codes\c2e03\class2.h
+	"class1.h"
+
+1483691470 source:c:\users\user\documents\c++\codes\c2e03\class3.cpp
+	<iostream>
+	"class3.h"
+
+1483691610 c:\users\user\documents\c++\codes\c2e03\class3.h
+	"class1.h"
+
+1483691728 source:c:\users\user\documents\c++\codes\c2e03\class4.cpp
+	<iostream>
+	"class4.h"
+
+1483691848 c:\users\user\documents\c++\codes\c2e03\class4.h
+	"class3.h"
+
+1483691940 source:c:\users\user\documents\c++\codes\c2e03\main.cpp
+	<iostream>
+	"class2.h"
+	"class3.h"
+	"class4.h"
+

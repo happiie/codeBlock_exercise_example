@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1483686608 source:c:\users\user\documents\c++\codes\c2e01 - polymorphism\class1.cpp
+	<iostream>
+	<iomanip>
+	"class1.h"
+
+1483686788 c:\users\user\documents\c++\codes\c2e01 - polymorphism\class1.h
+
+1483686834 source:c:\users\user\documents\c++\codes\c2e01 - polymorphism\class2.cpp
+	<iostream>
+	<iomanip>
+	"class2.h"
+
+1483686824 c:\users\user\documents\c++\codes\c2e01 - polymorphism\class2.h
+	"class1.h"
+
+1483687332 source:c:\users\user\documents\c++\codes\c2e01 - polymorphism\main.cpp
+	<iostream>
+	<iomanip>
+	"class2.h"
+

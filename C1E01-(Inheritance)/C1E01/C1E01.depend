@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1483673099 source:c:\users\user\documents\c++\codes\c1e01-(inheritance)\class1.cpp
+	<iostream>
+	<iomanip>
+	"class1.h"
+
+1483672703 c:\users\user\documents\c++\codes\c1e01-(inheritance)\class1.h
+
+1483673088 source:c:\users\user\documents\c++\codes\c1e01-(inheritance)\class2.cpp
+	<iostream>
+	<iomanip>
+	"class2.h"
+
+1483670006 c:\users\user\documents\c++\codes\c1e01-(inheritance)\class2.h
+	"class1.h"
+
+1493606708 source:c:\users\user\documents\c++\codes\c1e01-(inheritance)\main.cpp
+	<iostream>
+	<iomanip>
+	"class2.h"
+
