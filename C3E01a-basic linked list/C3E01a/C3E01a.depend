@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1484706240 source:c:\users\user\documents\c++\codes\c3e01a\list.cpp
+	<iostream>
+	"List.h"
+
+1484706248 c:\users\user\documents\c++\codes\c3e01a\list.h
+	<iostream>
+	"Node.h"
+
+1484539694 c:\users\user\documents\c++\codes\c3e01a\node.h
+
+1484542894 source:c:\users\user\documents\c++\codes\c3e01a\main.cpp
+	<iostream>
+	"List.h"
+
+1497146236 source:c:\users\user\documents\c++\codes\c3e01a-basic linked list\list.cpp
+	<iostream>
+	"List.h"
+
+1484706248 c:\users\user\documents\c++\codes\c3e01a-basic linked list\list.h
+	<iostream>
+	"Node.h"
+
+1484539694 c:\users\user\documents\c++\codes\c3e01a-basic linked list\node.h
+
+1484542894 source:c:\users\user\documents\c++\codes\c3e01a-basic linked list\main.cpp
+	<iostream>
+	"List.h"
+

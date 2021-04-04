@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1484631587 source:c:\users\user\documents\c++\codes\c3e02-ordered linked list\list.cpp
+	<iostream>
+	"List.h"
+
+1484629208 c:\users\user\documents\c++\codes\c3e02-ordered linked list\list.h
+	<iostream>
+	"Node.h"
+
+1484628809 c:\users\user\documents\c++\codes\c3e02-ordered linked list\node.h
+
+1484631622 source:c:\users\user\documents\c++\codes\c3e02-ordered linked list\main.cpp
+	<iostream>
+	"List.h"
+

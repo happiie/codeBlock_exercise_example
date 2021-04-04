@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1484208905 source:c:\users\user\documents\c++\codes\c2e04\complex.cpp
+	<iostream>
+	"Complex.h"
+
+1484208714 c:\users\user\documents\c++\codes\c2e04\complex.h
+	<iostream>
+
+1484208919 source:c:\users\user\documents\c++\codes\c2e04\main.cpp
+	<iostream>
+	"Complex.h"
+
+1484208905 source:c:\users\user\documents\c++\codes\c2e04-operator overloading\complex.cpp
+	<iostream>
+	"Complex.h"
+
+1484208714 c:\users\user\documents\c++\codes\c2e04-operator overloading\complex.h
+	<iostream>
+
+1484208919 source:c:\users\user\documents\c++\codes\c2e04-operator overloading\main.cpp
+	<iostream>
+	"Complex.h"
+
